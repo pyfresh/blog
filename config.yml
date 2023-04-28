@@ -1,4 +1,4 @@
-baseURL: https://pyfresh.github.io/myblog/
+baseURL: https://pyfresh.github.io/blog/
 languageCode: en-us
 title: My New Hugo Site
 theme: "PaperMod"
